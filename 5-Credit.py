@@ -6,4 +6,4 @@ numbers_of_years = int(input('На сколько лет хотите взять
 credit_rate = int(input('Введите процентную ставку банка: '))
 final_sum = need_sum + need_sum / 100 * credit_rate * numbers_of_years
 
-print(f'Платить придётся {final_sum} рублей')
+print(f'Платить придётся {final_sum} рублей!')
