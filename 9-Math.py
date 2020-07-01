@@ -3,8 +3,10 @@
 
 import math
 
-a = 5.51
-print('Дано число a = 5.65')
+print('Введите число с точкой: ')
+
+a = float(input())
+print(f'Ты ввёл число {a}.')
 
 # Округление числа
 print('Round: ' + str(round(a)))
