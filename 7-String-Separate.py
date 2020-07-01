@@ -1,5 +1,8 @@
 # Разделяем строку по определённому символу
 
+import sys
+sys.getfilesystemencoding()
+
 data = "12;10;8;10"
 separated_data = data.split(';')
 print(separated_data)
