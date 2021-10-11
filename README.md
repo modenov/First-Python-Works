@@ -5,4 +5,4 @@
 
 ## Где кодишь?
 
-В Visual Studio Code.
+В PyCharm Community Edition и — немножко — в Visual Studio Code.
