@@ -1,8 +1,9 @@
-# Python
-Изучаю Python! Решился-таки.
+# What is it
+This is my archival first Python apps.
 
-Не смейтесь, здесь всё очень простенько. Но со вкусом.
+## What IDE do you use?
 
-## Где кодишь?
+PyCharm Community Edition, Visual Studio Code.
 
-В PyCharm Community Edition и — немножко — в Visual Studio Code.
+Copyright (c) Vladimir Modenov, 2020.
+Edited 2022.
